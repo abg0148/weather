@@ -1,0 +1,2 @@
+1. make a widget out of this python file, so that it can be used from desktop directly
+2. add gui (with buttons for printing upcoming rain date, weather warnings issued for my location)
